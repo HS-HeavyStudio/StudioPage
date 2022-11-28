@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-hacker"
+  s.name          = "RobloxExpliters"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Jason Costello", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-hacker@github.com"]
+  s.authors       = ["HS Studio", "GitHub, Inc."]
+  s.email         = ["Will be added"]
   s.homepage      = "https://github.com/pages-themes/hacker"
   s.summary       = "Hacker is a Jekyll theme for GitHub Pages"
 
